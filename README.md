@@ -1,4 +1,4 @@
-### Gojo-Bot
+# Gojo-Bot
 General purpose bot that uses Riot API and OpenAI API
 
 ## Features
